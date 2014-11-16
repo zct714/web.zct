@@ -1,0 +1,22 @@
+
+h1{
+	color:blue;
+	font-fanily:garamond;
+	font-size:30px;
+}
+th{
+	color:red;
+	font-fanily:courier;
+	font-size:30px;
+}
+tr{
+	background-color:yellow;
+}
+td{
+	color:purple;
+	font-fanily:verdana;
+	font-size:30px;
+}
+
+
+
