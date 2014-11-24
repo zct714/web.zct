@@ -1,12 +1,12 @@
 
 h1{
 	color:blue;
-	font-fanily:garamond;
+	font-family:garamond;
 	font-size:30px;
 }
 th{
 	color:red;
-	font-fanily:courier;
+	font-family:courier;
 	font-size:30px;
 }
 tr{
@@ -14,7 +14,7 @@ tr{
 }
 td{
 	color:purple;
-	font-fanily:verdana;
+	font-family:verdana;
 	font-size:30px;
 }
 
